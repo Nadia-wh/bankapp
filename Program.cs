@@ -1,4 +1,4 @@
-﻿
+
 ﻿using System;
 using System.Text;
 
@@ -36,15 +36,17 @@ namespace Bank
                 {
                     Console.WriteLine("enter the amount to deposit   ");
                     double a = Convert.ToDouble(Console.ReadLine());
+                    //using the protected member
+                    Console.WriteLine("Transaction started against ID  " + sv.getID());
 
-                    sv.deposit(a);
+                     sv.Deposit(a);
                 }
                 else if (input == "3") 
                 {
                   
                     Console.WriteLine("enter the amount to withdraw    ");
                     double a = Convert.ToDouble(Console.ReadLine());
-                    sv.withdraw(a);
+                    sv.Withdraw(a);
                 }
                 
                 else if (input == "5")
@@ -57,14 +59,9 @@ namespace Bank
                 }
                 Console.ReadKey();
 
-
             }
 
-           // Console.ReadKey();
-
         }
-
-
 
     }
 }
