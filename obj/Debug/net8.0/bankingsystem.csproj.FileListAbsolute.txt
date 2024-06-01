@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\c#\bankingsystem\bin\Debug\net8.0\bankingsystem.exe
+C:\Users\Lenovo\Desktop\c#\bankingsystem\bin\Debug\net8.0\bankingsystem.deps.json
+C:\Users\Lenovo\Desktop\c#\bankingsystem\bin\Debug\net8.0\bankingsystem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c#\bankingsystem\bin\Debug\net8.0\bankingsystem.dll
+C:\Users\Lenovo\Desktop\c#\bankingsystem\bin\Debug\net8.0\bankingsystem.pdb
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\bankingsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\bankingsystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\bankingsystem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\bankingsystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\bankingsystem.dll
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\refint\bankingsystem.dll
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\bankingsystem.pdb
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\bankingsystem.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\c#\bankingsystem\obj\Debug\net8.0\ref\bankingsystem.dll
