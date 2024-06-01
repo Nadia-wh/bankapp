@@ -12,9 +12,19 @@ namespace Bank
     {
         public double balance;
         public double ammount;
-        public abstract bool deposit(double amount);
+        public abstract bool Deposit(double amount);
 
-        public abstract bool withdraw(double amount);
+        public abstract bool Withdraw(double amount);
 
+
+// the protected modifier is used here for bankID
+        protected int bankID;
+       
+        public int BankID()
+        {
+            return bankID = 3;
+        }
     }
+
+
 }
